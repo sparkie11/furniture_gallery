@@ -1,0 +1,212 @@
+{
+  "categories": [
+    "Living Room",
+    "Bedroom",
+    "Dining Room",
+    "Office",
+    "Outdoor"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Rustic Oak Dining Table",
+      "category": "Dining Room",
+      "price": 1299.99,
+      "description": "Hand-crafted dining table made from solid oak with a beautiful natural finish",
+      "shortDescription": "A timeless dining table that brings warmth and character to your dining space",
+      "dimensions": {
+        "length": 72,
+        "width": 36,
+        "height": 30,
+        "unit": "inches"
+      },
+      "weight": {
+        "value": 120,
+        "unit": "lbs"
+      },
+      "materials": [
+        {
+          "name": "Solid Oak",
+          "description": "Sustainably sourced oak wood, known for its durability and beautiful grain pattern"
+        },
+        {
+          "name": "Natural Finish",
+          "description": "Water-resistant protective coating that enhances the wood's natural beauty"
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/7MlzI0lw6bFS9zlH1PNs-8cGH9utkky2mqCNF3MX2QdMX6Cje0FEbsh5yHI70ZZ8CfwV2L8310OgneQ7ct6vZSlg=s1280-w1280-h800",
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/7MlzI0lw6bFS9zlH1PNs-8cGH9utkky2mqCNF3MX2QdMX6Cje0FEbsh5yHI70ZZ8CfwV2L8310OgneQ7ct6vZSlg=s1280-w1280-h800",
+          "type": "main",
+          "alt": "Rustic Oak Dining Table - Front View"
+        }
+      ],
+      "inStock": true,
+      "features": [
+        "Solid Oak Construction",
+        "Natural Finish",
+        "Seats 6-8 People",
+        "Custom Size Available",
+        "Sturdy Mortise-and-Tenon Joinery",
+        "Protective Floor Pads Included"
+      ],
+      "careInstructions": [
+        "Dust regularly with a soft, dry cloth",
+        "Clean spills immediately with a slightly damp cloth",
+        "Use coasters to prevent water rings",
+        "Avoid direct sunlight to prevent fading",
+        "Re-tighten hardware periodically"
+      ],
+      "sustainability": {
+        "materials": "FSC-certified wood from responsibly managed forests",
+        "packaging": "100% recyclable packaging materials",
+        "manufacturing": "Zero-waste manufacturing process"
+      },
+      "assembly": {
+        "required": false,
+        "estimatedTime": "N/A",
+        "toolsIncluded": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Modern Walnut Bed Frame",
+      "category": "Bedroom",
+      "price": 1599.99,
+      "description": "Contemporary bed frame crafted from premium walnut wood with integrated storage",
+      "shortDescription": "A sleek and functional bed frame that combines modern design with practical storage solutions",
+      "dimensions": {
+        "length": 80,
+        "width": 60,
+        "height": 45,
+        "unit": "inches"
+      },
+      "weight": {
+        "value": 180,
+        "unit": "lbs"
+      },
+      "materials": [
+        {
+          "name": "Premium Walnut",
+          "description": "Hand-selected walnut wood known for its rich color and durability"
+        },
+        {
+          "name": "Steel Hardware",
+          "description": "High-grade steel components for enhanced stability"
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/7MlzI0lw6bFS9zlH1PNs-8cGH9utkky2mqCNF3MX2QdMX6Cje0FEbsh5yHI70ZZ8CfwV2L8310OgneQ7ct6vZSlg=s1280-w1280-h800",
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/7MlzI0lw6bFS9zlH1PNs-8cGH9utkky2mqCNF3MX2QdMX6Cje0FEbsh5yHI70ZZ8CfwV2L8310OgneQ7ct6vZSlg=s1280-w1280-h800",
+          "type": "main",
+          "alt": "Modern Walnut Bed Frame - Front View"
+        }
+      ],
+      "inStock": true,
+      "features": [
+        "Premium Walnut Construction",
+        "Modern Platform Design",
+        "Integrated Storage Drawers",
+        "Multiple Size Options",
+        "Reinforced Steel Support",
+        "Easy Assembly System"
+      ],
+      "careInstructions": [
+        "Dust regularly with a soft, dry cloth",
+        "Polish wood surfaces every 3-6 months",
+        "Check and tighten hardware regularly",
+        "Avoid placing bed in direct sunlight",
+        "Clean storage drawers with a damp cloth"
+      ],
+      "sustainability": {
+        "materials": "Responsibly harvested walnut wood with FSC certification",
+        "packaging": "Minimal packaging design with recycled materials",
+        "manufacturing": "Energy-efficient production process"
+      },
+      "assembly": {
+        "required": true,
+        "estimatedTime": "45-60 minutes",
+        "toolsIncluded": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Executive Office Desk",
+      "category": "Office",
+      "price": 899.99,
+      "description": "Professional office desk with built-in storage and cable management system",
+      "shortDescription": "A sophisticated workspace solution combining functionality with modern design",
+      "dimensions": {
+        "length": 60,
+        "width": 30,
+        "height": 29,
+        "unit": "inches"
+      },
+      "weight": {
+        "value": 150,
+        "unit": "lbs"
+      },
+      "materials": [
+        {
+          "name": "Engineered Wood",
+          "description": "High-grade MDF with premium veneer finish for durability"
+        },
+        {
+          "name": "Steel Frame",
+          "description": "Powder-coated steel frame providing robust support"
+        },
+        {
+          "name": "Cable Management System",
+          "description": "Integrated wire management with soft-close ports"
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/7MlzI0lw6bFS9zlH1PNs-8cGH9utkky2mqCNF3MX2QdMX6Cje0FEbsh5yHI70ZZ8CfwV2L8310OgneQ7ct6vZSlg=s1280-w1280-h800",
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/7MlzI0lw6bFS9zlH1PNs-8cGH9utkky2mqCNF3MX2QdMX6Cje0FEbsh5yHI70ZZ8CfwV2L8310OgneQ7ct6vZSlg=s1280-w1280-h800",
+          "type": "main",
+          "alt": "Executive Office Desk - Front View"
+        }
+      ],
+      "inStock": true,
+      "features": [
+        "Smart Cable Management System",
+        "Spacious Storage Drawers",
+        "Height Adjustable Legs",
+        "Ergonomic Design",
+        "Built-in Power Outlets",
+        "Anti-scratch Surface"
+      ],
+      "careInstructions": [
+        "Clean with a soft, dry cloth",
+        "Use appropriate wood cleaner for deep cleaning",
+        "Avoid placing hot items directly on surface",
+        "Adjust leg levelers for stability",
+        "Keep cables organized in management system"
+      ],
+      "sustainability": {
+        "materials": "CARB-compliant engineered wood for low emissions",
+        "packaging": "Eco-friendly packaging with recycled materials",
+        "manufacturing": "Energy-efficient production with minimal waste"
+      },
+      "assembly": {
+        "required": true,
+        "estimatedTime": "30-45 minutes",
+        "toolsIncluded": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "Executive Office Desk",
+      "category": "Office",
+      "price": 899.99,
+      "description": "Professional office desk with built-in storage and cable management",
+      "dimensions": "60L x 30W x 29H inches",
+      "imageUrl": "https://lh3.googleusercontent.com/7MlzI0lw6bFS9zlH1PNs-8cGH9utkky2mqCNF3MX2QdMX6Cje0FEbsh5yHI70ZZ8CfwV2L8310OgneQ7ct6vZSlg=s1280-w1280-h800",
+      "inStock": true,
+      "features": ["Cable Management", "Storage Drawers", "Adjustable Height", "Ergonomic Design"]
+    }
+  ]
+}
